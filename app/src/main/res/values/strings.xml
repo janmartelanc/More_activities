@@ -6,4 +6,7 @@
     <string name="hello">Hello!</string>
     <string name="ac1">Go to activity 1</string>
     <string name="ac33">Activity 3</string>
+    <string name="app_name">More Activities</string>
+    <string name="app_name1">More Activities1</string>
+    <string name="app_name2">More Activities2</string>
 </resources>

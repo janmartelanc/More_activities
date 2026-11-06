@@ -51,6 +51,7 @@
             android:layout_height="wrap_content"
             android:background="#8E8E8E"
             android:text="@string/ac1"
-            android:textColor="#000000" />
+            android:textColor="#000000"
+            android:onClick="goToActivity1"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

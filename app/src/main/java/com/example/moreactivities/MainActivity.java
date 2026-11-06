@@ -1,6 +1,8 @@
 package com.example.moreactivities;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,4 +23,12 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
-}
+    public void goToActivity2(View view) {
+        Intent intent = new Intent(this, HelloActivity.class);
+        startActivity(intent);
+    }
+    public void goToActivity3(View view) {
+        Intent intent = new Intent(this, ThirdActivity.class);
+        startActivity(intent);
+    }
+    }

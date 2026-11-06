@@ -9,11 +9,9 @@
     tools:context=".MainActivity">
 
     <LinearLayout
-        android:layout_width="409dp"
-        android:layout_height="731dp"
-        android:orientation="vertical"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
         <TextView
             android:id="@+id/textView2"
@@ -30,14 +28,14 @@
             android:id="@+id/button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="100px"
+            android:onClick="goToActivity2"
             android:text="@string/ac2" />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="100px"
+            android:onClick="goToActivity3"
             android:text="@string/ac3" />
 
         <TextView
@@ -55,7 +53,6 @@
             android:layout_width="match_parent"
             android:layout_height="54dp"
             android:text="@string/count" />
-
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
