@@ -1,0 +1,9 @@
+<resources>
+    <string name="ac2">Go to activity 2</string>
+    <string name="example">Activities-example</string>
+    <string name="ac3">Go to activity 3</string>
+    <string name="count">Count</string>
+    <string name="hello">Hello!</string>
+    <string name="ac1">Go to activity 1</string>
+    <string name="ac33">Activity 3</string>
+</resources>
