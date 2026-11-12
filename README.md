@@ -22,7 +22,7 @@ Ta projekt je Android aplikacija, izdelana v okolju Android Studio z uporabo pro
 * **Uporabniški vmesnik:** XML (`ConstraintLayout`, `LinearLayout`, `TextView`, `Button`)
 * **Ključni Android gradniki:** `Activity`, `Intent`, `GestureDetector`
 
-Slike : <img width="201"  alt="image" src="https://github.com/user-attachments/assets/431e363b-5ed3-4ad6-9fa5-2a805b7277af" />
+<img width="201"  alt="image" src="https://github.com/user-attachments/assets/431e363b-5ed3-4ad6-9fa5-2a805b7277af" />
 <img width="201"  alt="image" src="https://github.com/user-attachments/assets/8417d412-58e1-4f74-8482-fe32c648ff4a" />
 <img width="201"  alt="image" src="https://github.com/user-attachments/assets/0308dbc1-4dba-4f04-b22b-fee39fa06038" />
 
